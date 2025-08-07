@@ -4,7 +4,7 @@ Hello there! 😺
 🗨 I'm a Salmon Biologist at Trout Unlimited and an Affiliate Scientist in the Fisheries Collaborative Program at University of California Santa Cruz. 
 
 🧮 I specialize in salmon ecology, population models, and quantitatve methods. 
-I enjoy thinking about how diversity evolves and how natural selection maintains it in fishes. 
+I enjoy thinking about how diversity evolved and how natural selection maintains it in fishes. 
 
 ⚡ I'm currently working on population genetic models for hatchery-wild metapopulations.
 
